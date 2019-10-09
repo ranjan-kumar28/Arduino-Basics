@@ -1,5 +1,5 @@
-int t = 4;
-int e =3;
+int t = 4;//Triger PIn
+int e =3; //Echo Pin
 long k;
 int d;
 void setup(){
